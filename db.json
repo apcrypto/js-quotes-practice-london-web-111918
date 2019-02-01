@@ -3,13 +3,13 @@
     {
       "id": 1,
       "quote": "Don't count the days, make the days count.",
-      "likes": 1,
+      "likes": 5,
       "author": "Mike Tyson"
     },
     {
       "id": 2,
       "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "likes": 1,
+      "likes": 3,
       "author": "Collin Powell"
     },
     {
@@ -25,17 +25,34 @@
       "author": "Confucius"
     },
     {
-      "id": 5 ,
+      "id": 5,
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "likes": 1,
+      "likes": 2,
       "author": "Winston Churchhill"
     },
     {
       "id": 6,
       "quote": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
-      "likes": 1,
+      "likes": 2,
       "author": "Newt Gingrich"
+    },
+    {
+      "quote": "This is a new quote",
+      "author": "Andy",
+      "id": 7,
+      "likes": 6
+    },
+    {
+      "quote": "This is a new quote",
+      "author": "Andy",
+      "likes": 7,
+      "id": 8
+    },
+    {
+      "quote": "This is a new quote",
+      "author": "Andy",
+      "likes": 0,
+      "id": 9
     }
-
   ]
 }
